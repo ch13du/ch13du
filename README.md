@@ -1,20 +1,14 @@
-# 👋 Hi, I'm Chiedu
+# Hi, I'm Chiedu
 
 **Cybersecurity Analyst | AI Governance | SIEM & Threat Detection**
 
-I help organizations strengthen their security posture, reduce alert noise, and operationalize cyber and AI risk controls that actually work in real environments.
+I help organizations strengthen their security posture, reduce alert noise, and operationalize cyber and AI risk controls that work in real environments.
 
-My work sits at the intersection of:
-
-- 🔐 Security Operations (SIEM, EDR, Incident Response)  
-- 🧠 AI Governance & Risk (NIST AI RMF, ISO 42001)  
-- 📊 Security Analytics & Visibility (Power BI, dashboards)  
-- 🛡️ Vulnerability & Risk Management  
-- ☁️ Cloud and Endpoint Security Monitoring  
+My work focuses on the intersection of security operations, risk management, and AI governance.
 
 ---
 
-## 🚀 What I Focus On
+## What I Focus On
 
 - SIEM detection tuning and alert quality improvement  
 - Threat hunting across endpoint and network telemetry  
@@ -25,7 +19,7 @@ My work sits at the intersection of:
 
 ---
 
-## 🧰 Core Tools & Technologies
+## Core Tools & Technologies
 
 **Security & Detection**
 - Microsoft Sentinel  
@@ -42,42 +36,36 @@ My work sits at the intersection of:
 - SOC 2 readiness support  
 - Third-party risk management  
 
-**Analytics & Automation**
+**Analytics & Visibility**
 - Power BI  
 - Security metrics and reporting  
 - Risk scoring models  
-- Workflow automation (where applicable)  
+- Workflow automation  
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
-Below are selected projects demonstrating practical security and AI risk capabilities:
-
-### 🔷 Tarix – AI Governance Risk Index
+### Tarix – AI Governance Risk Index
 
 Tarix is an AI governance and cyber risk intelligence initiative designed to help organizations assess exposure, identify control gaps, and prioritize remediation across emerging AI and security risks.
 
-**Key capabilities:**
+Key areas demonstrated:
 
-- AI risk scoring aligned to NIST AI RMF concepts  
+- AI risk scoring aligned to NIST AI RMF  
 - Structured exposure tiers and weighted risk logic  
-- Support for governance and compliance readiness reviews  
-- Risk visibility designed for both technical teams and leadership  
-- Foundation for Trust-as-a-Service style risk intelligence  
-
-**What this demonstrates:**
-
-- Practical AI governance implementation  
-- Risk modeling and scoring design  
-- Security and compliance mindset  
+- Governance and compliance readiness support  
 - Executive-ready risk visibility approach  
 
-## 🎯 What I Care About
+Pinned repositories showcase supporting components and experiments.
+
+---
+
+## Approach
 
 I focus on practical, operational security. Not just passing audits, but building controls and detection logic that hold up in real environments.
 
-Key principles I follow:
+Principles I follow:
 
 - Reduce real risk, not just checklist gaps  
 - Improve signal over noise  
@@ -87,15 +75,10 @@ Key principles I follow:
 
 ---
 
-## 🤝 Open To
+## Open To
 
 - Security operations and detection work  
 - SIEM tuning and threat hunting engagements  
 - AI governance and risk advisory  
 - Vulnerability management improvements  
 - Security analytics and dashboard projects
-- Governance, Risk & Compliance
-
----
-
-⭐ If you find my work useful, feel free to star a repository or connect.
