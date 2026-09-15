@@ -1,84 +1,113 @@
-# Hi, I'm Chiedu
+# Hi, I'm Kexter
 
-**Cybersecurity Analyst | AI Governance | SIEM & Threat Detection**
+### Cybersecurity | AI Security & Governance | Product | Technology Risk
 
-I help organizations strengthen their security posture, reduce alert noise, and operationalize cyber and AI risk controls that work in real environments.
+I work across cybersecurity, technology risk, GRC, AI governance, and the intersection of security and product decision-making.
 
-My work focuses on the intersection of security operations, risk management, and AI governance.
+My focus is on building practical security controls, improving security visibility, understanding where meaningful risk exists, and helping technical and business teams make better decisions about the technologies they build, adopt, and operate.
 
----
+My experience spans vulnerability management, security operations, identity and access management, cloud security, threat detection, third-party risk, security governance, compliance, security analytics, and AI governance.
 
-## What I Focus On
-
-- SIEM detection tuning and alert quality improvement  
-- Threat hunting across endpoint and network telemetry  
-- Risk-based vulnerability prioritization  
-- Security and compliance readiness support  
-- AI risk and governance program design  
-- Security dashboard development for leadership visibility  
+I use GitHub to document practical security projects, technical experiments, risk models, and supporting work from **KEXTR Labs**.
 
 ---
 
-## Core Tools & Technologies
+## Areas I Work In
 
-**Security & Detection**
-- Microsoft Sentinel  
-- Microsoft Defender for Endpoint  
-- SIEM platforms  
-- Log analysis and correlation  
-- Incident response workflows  
+### Security Operations
 
-**Risk & Compliance**
-- NIST Cybersecurity Framework  
-- NIST AI Risk Management Framework  
-- ISO 27001  
-- ISO 42001  
-- SOC 2 readiness support  
-- Third-party risk management  
+- SIEM monitoring and detection
+- Threat hunting
+- Incident investigation and response
+- Endpoint and network telemetry
+- Alert tuning and correlation
+- Security monitoring and analysis
 
-**Analytics & Visibility**
-- Power BI  
-- Security metrics and reporting  
-- Risk scoring models  
-- Workflow automation  
+### Vulnerability, Security & Risk
+
+- Vulnerability assessment and remediation
+- Risk-based vulnerability prioritization
+- Cyber risk assessment
+- Identity and access management
+- Cloud security
+- Third-party risk
+- Security control design
+
+### GRC & Technology Risk
+
+- Security governance
+- Risk and control assessments
+- Security policies and standards
+- Control design and testing
+- Third-party risk management
+- Compliance and assurance
+- Executive risk reporting
+
+### AI Security & Governance
+
+- NIST AI Risk Management Framework
+- AI risk assessments
+- AI governance controls
+- Third-party AI risk
+- AI security considerations
+- Responsible AI governance
+- AI risk and control mapping
+
+### Product & Security
+
+- Translating security risk into product requirements
+- Secure-by-design considerations
+- Product security requirements
+- Security and risk prioritization
+- Balancing security controls with usability and business objectives
+- Connecting technical findings with product and business decisions
+
+### Security Analytics
+
+- Power BI
+- Security metrics and reporting
+- Executive dashboards
+- Risk scoring models
+- Security data analysis
+- Workflow automation
 
 ---
 
-## Featured Work
+## Frameworks & Technologies
 
-### Tarix – AI Governance Risk Index
+### Security
 
-Tarix is an AI governance and cyber risk intelligence initiative designed to help organizations assess exposure, identify control gaps, and prioritize remediation across emerging AI and security risks.
+`Microsoft Sentinel` `Microsoft Defender for Endpoint` `SIEM` `Wazuh` `Suricata` `Log Analysis` `Incident Response`
 
-Key areas demonstrated:
+### Cloud & Infrastructure
 
-- AI risk scoring aligned to NIST AI RMF  
-- Structured exposure tiers and weighted risk logic  
-- Governance and compliance readiness support  
-- Executive-ready risk visibility approach  
+`AWS` `Linux` `Docker` `Terraform` `Kubernetes`
 
-Pinned repositories showcase supporting components and experiments.
+### Governance & Risk
 
----
+`NIST CSF` `NIST AI RMF` `ISO 27001` `ISO 42001` `SOC 2` `Third-Party Risk`
 
-## Approach
+### Analytics
 
-I focus on practical, operational security. Not just passing audits, but building controls and detection logic that hold up in real environments.
-
-Principles I follow:
-
-- Reduce real risk, not just checklist gaps  
-- Improve signal over noise  
-- Make security measurable and visible  
-- Bridge technical and risk conversations  
-- Keep controls usable by real teams  
+`Power BI` `Security Metrics` `Risk Models` `Automation`
 
 ---
 
-## Open To
+## How I Approach Security
 
-- Security operations and detection work  
-- SIEM tuning and threat hunting engagements  
-- AI governance and risk advisory  
-- Vulnerability management improvements  
-- Security analytics and dashboard projects
+I am interested in security controls that hold up beyond spreadsheets and audit reports.
+
+That means:
+
+- Prioritizing actual risk rather than severity alone
+- Improving signal instead of simply generating more alerts
+- Designing controls that teams can realistically operate
+- Making security measurable and visible
+- Connecting technical findings to business and product decisions
+- Treating security as an enabler of technology rather than a barrier to it
+
+---
+
+## KEXTR
+
+I write about cybersecurity, AI, risk, product, GRC, and emerging technology through **KEXTR.COM**.
